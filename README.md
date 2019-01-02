@@ -5,4 +5,10 @@ aller dans le dossier :
 factorielle-avec-for/factorielle avec for/bin/Debug       
 puis lancer     
 factorielle avec for.exe         
-pour l'executer   
+pour l'executer  
+
+factorielle-avec-for/factorielle avec for/
+puis lancer      
+Program.cs    
+pour voir le code
+
